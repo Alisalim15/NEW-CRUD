@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="46ec3b58-56f1-442b-8a2f-17efbfc4f11c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="1kPeEViKaDmY6Q6DTrPgPjwZ0jO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\NEW-CRUD\image" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="46ec3b58-56f1-442b-8a2f-17efbfc4f11c" name="Default Changelist" comment="" />
+      <created>1605606542751</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605606542751</updated>
+      <workItem from="1605606543899" duration="1553000" />
+      <workItem from="1605608172157" duration="1743000" />
+      <workItem from="1605611897731" duration="647000" />
+      <workItem from="1605613706347" duration="1239000" />
+      <workItem from="1605615601868" duration="1577000" />
+      <workItem from="1605617453845" duration="1780000" />
+      <workItem from="1605619280240" duration="1572000" />
+      <workItem from="1605680404703" duration="1780000" />
+      <workItem from="1605682267755" duration="1767000" />
+      <workItem from="1605684078496" duration="1686000" />
+      <workItem from="1605685977853" duration="1798000" />
+      <workItem from="1605687838143" duration="1776000" />
+      <workItem from="1605689672349" duration="1671000" />
+      <workItem from="1605692489541" duration="1775000" />
+      <workItem from="1605694315783" duration="1339000" />
+      <workItem from="1605697398403" duration="1791000" />
+      <workItem from="1605699260418" duration="1776000" />
+      <workItem from="1605701246830" duration="1779000" />
+      <workItem from="1605703077187" duration="1779000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="444" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605616797968">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="444" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1605616797968" />
+    <state x="184" y="9" key="SettingsEditor" timestamp="1605606564930">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1605606564930" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1605704380392">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1605704380392" />
+  </component>
+</project>
